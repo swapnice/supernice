@@ -1,0 +1,6 @@
+[project]
+name = "supernice"
+version = "0.0.1"
+dependencies = [
+    'importlib-metadata; python_version<"3.11"',
+]
